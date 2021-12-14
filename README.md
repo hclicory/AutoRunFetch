@@ -10,4 +10,6 @@ if you don't want, edit specific_branch in run.bat file to following structure, 
 e.g.
 > SET specific_branch=origin branch2
 
-3. double click run.bat to start auto fetch git repo
+3. change timmer, default is fetch every 3600 sec
+
+4. double click run.bat to start auto fetch git repo
